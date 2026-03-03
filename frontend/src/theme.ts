@@ -4,10 +4,10 @@ export const theme: ThemeConfig = {
   token: {
     colorPrimary: "#1677ff",        // Ant blue
     colorInfo: "#1677ff",
-    colorBgBase: "#f5f7fb",         // soft off-white background
-    colorTextBase: "#0b1220",       // near-black
+    colorBgLayout: "#f5f7fb",         // soft off-white background
+    colorText: "#0b1220",       // near-black
     colorBorder: "#e6eaf2",
-    borderRadius: 14,
+    borderRadiusLG: 14,
     fontSize: 14,
   },
   components: {

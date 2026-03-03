@@ -18,6 +18,8 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
+        "https://index-8c1d0.web.app/"
+        "https://index-8c1d0.firebaseapp.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],
