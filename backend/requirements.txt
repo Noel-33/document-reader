@@ -1,14 +1,18 @@
-<<<<<<< Updated upstream
+Updated upstream
+
 fastapi
 uvicorn[standard]
 python-multipart
 sentence-transformers
 requests
 PyMuPDF
-=======
+
 fastapi
 uvicorn[standard]
 python-multipart
+python-dotenv
+pydantic
+httpx
 sentence-transformers
 requests
->>>>>>> Stashed changes
+Stashed changes
