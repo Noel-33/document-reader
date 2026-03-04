@@ -1,9 +1,9 @@
 import axios from "axios";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "/api";
 
 export const api = axios.create({
-  baseURL: "http://localhost:8000",
+  baseURL: "API_BASE",
 });
 
 export type DocItem = { doc_id: string; filename: string; filetype: string };
