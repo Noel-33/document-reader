@@ -7,3 +7,4 @@ httpx
 sentence-transformers
 requests
 PyMuPDF
+python-docx
