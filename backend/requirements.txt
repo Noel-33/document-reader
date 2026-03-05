@@ -4,7 +4,11 @@ python-multipart
 python-dotenv
 pydantic
 httpx
-sentence-transformers
 requests
+
+sentence-transformers
 PyMuPDF
+
 python-docx
+beautifulsoup4
+lxml
