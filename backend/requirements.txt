@@ -12,3 +12,5 @@ PyMuPDF
 python-docx
 beautifulsoup4
 lxml
+
+striprtf
