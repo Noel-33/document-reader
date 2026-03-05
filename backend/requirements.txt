@@ -12,5 +12,11 @@ PyMuPDF
 python-docx
 beautifulsoup4
 lxml
-
+markdown
 striprtf
+
+openai
+
+youtube-transcript-api
+yt-dlp
+faster-whisper
